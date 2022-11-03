@@ -15,6 +15,9 @@
 <img aling="center" alt="java"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img aling="center" alt="java"src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 <img aling="center" alt="java"src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+<img aling="center" alt="java"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
+
+          
 </div><br/>
 
 Nós somos aquilo que fazemos repetidamente.
