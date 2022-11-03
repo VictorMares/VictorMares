@@ -1,16 +1,23 @@
-### Hi there 👋
+### Olá! Eu sou o  Victor Mares ✋
 
-<!--
-**VictorMares/VictorMares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente sou  Analista de Testes.
+- 🌱 Possuo conhecimento em  Automação de Testes.
+- 📫 Como chegar até mim: victor.maresbrito@hotmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-mares)
+
+![VictorMares GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorMares&show_icons=true&theme=dark)
+
+##Tecnologias que eu utilizo
+
+<div style="display:inline_block"><br/>
+<img aling="center" alt="java"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img aling="center" alt="java"src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+<img aling="center" alt="java"src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+</div><br/>
+
+Nós somos aquilo que fazemos repetidamente.
+Execelência, então, não é um modo de agir, mas  um hábito.
+
+
